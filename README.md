@@ -1,3 +1,2 @@
 # MyFirstRepository
-# editing the file
-# i am learning to use github 
+# I am learning to use github.
