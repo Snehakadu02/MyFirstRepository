@@ -1,3 +1,3 @@
 # MyFirstRepository
-## editing the file
+# editing the file
 # i am learning to use github 
